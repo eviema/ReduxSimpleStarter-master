@@ -1,4 +1,4 @@
-# ReduxSimpleStarter-Master
+# redux-book-list
 
 A simple book list which allows a user to select a book from the list to see details, using Redux with React
 
@@ -7,7 +7,7 @@ A simple book list which allows a user to select a book from the list to see det
 Clone this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> cd ReduxSimpleStarter-master
+> cd redux-book-list
 > npm install
 > npm start
 ```
